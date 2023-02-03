@@ -1,7 +1,6 @@
 # alx-interview
 
 
-
 ## Author
 
 <!-- twitter -->
